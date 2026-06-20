@@ -1,0 +1,13 @@
+step1: login with your github account 
+step2: click on new button which visible at right side top corner
+step3: create a new repository
+        enter repository name :
+        enter description:   
+step4: click on green button create repository.
+step5: open terminal 
+step6: run git init(it convert textfile to repository ).
+step7: run git add .()
+step8: git commit -m"commit msg"(to commit repository).
+                -m(to mesage"msg" or 'msg')
+step9: git branch -M main ( to make mainbrach ).
+                -M(move/master branch name change )
