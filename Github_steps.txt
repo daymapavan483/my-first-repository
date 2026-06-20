@@ -3,11 +3,18 @@ step2: click on new button which visible at right side top corner
 step3: create a new repository
         enter repository name :
         enter description:   
-step4: click on green button create repository.
-step5: open terminal 
-step6: run git init(it convert textfile to repository ).
-step7: run git add .()
-step8: git commit -m"commit msg"(to commit repository).
+step: click on green button create repository.
+step4: open terminal 
+step5: run git init(it convert textfile to repository ).
+step6: run git add .()
+step7:  run git commit -m"commit msg"(to commit repository).
                 -m(to mesage"msg" or 'msg')
-step9: git branch -M main ( to make mainbrach ).
+step8: run git branch -M main ( to make mainbrach ).
                 -M(move/master branch name change )
+step9: run git remote add origin  location(copy from github)
+        ex: git remote add origin  https://github.com/daymapavan483/my-first-repository.git
+......................................................................................................
+after  change any thing run this command 
+#git add .
+#git commit -m 
+#git push
