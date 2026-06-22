@@ -7,7 +7,7 @@ step: click on green button create repository.
 step4: open terminal 
 step5: run git init(it convert textfile to repository ).
 step6: run git add .()
-step7:  run git commit -m"commit msg"(to commit repository).
+step7:  run git commit -m"commit msg"(to commit repository).      
                 -m(to mesage"msg" or 'msg')
 step8: run git branch -M main ( to make mainbrach ).
                 -M(move/master branch name change )

@@ -1,0 +1,22 @@
+        what is client and server ?
+        server :who provides the service 
+        client:who receive the service
+----------------------------------------------
+browser:
+        google chrome, firefox,safari etc.
+client send request to server
+www.github.com 
+        www:world wide web
+------------------------------------------------------------------
+http:http stands for hyper text protcol
+https:http stands for hyper text protcol secure 
+    a way to communication between client and server.
+http accept the request from client and send to server
+http receive response from the server and send to client 
+
+*there are different methods to convery using http *
+ POST:which is use to send record to server
+ GET: fetch the response from the server 
+ PUT:update record in server
+ PATCH: pertially  update: half of the dateils update in server
+ DELETE: delete record from server. 
