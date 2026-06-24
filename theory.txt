@@ -20,3 +20,4 @@ http receive response from the server and send to client
  PUT:update record in server
  PATCH: pertially  update: half of the dateils update in server
  DELETE: delete record from server. 
+     

@@ -12,3 +12,16 @@ programing is a process to write a program,design a program,build or debug a pro
 
 what is coding?
 coding is a just a thing to write a piece of code or write a program.
+===================================================================================================
+A       B 
+human   human 
+    treanslator
+-----------------------
+compiler: which translate whole source file 
+Interpreter : which convert line by line excution 
+------------------------------------------------------
+
+c language is a compiler based programin language 
+c++ is also a compiler based programing language 
+
+python is a Interpreter based langauge .

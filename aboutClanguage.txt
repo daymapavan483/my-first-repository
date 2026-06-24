@@ -1,0 +1,56 @@
+c langauge : C is a most powerful programing language.
+    which developed by Denis M. Ritchi in 1972 at AT and T bell lab.
+    befor c program there was B programing 
+    and befor  program there is BCPL(Basic Compluted Programing Language)
+    ANSI standarized the c programing in 1989
+    ANSI(American National Standadrd Institue)
+    and rename as ANSi C and C89
+-------------------------------------------------------- 
+#: pre defined 
+include: to add something 
+<filename>:filename
+<stdio.h>: Standadrd input output header file 
+void main(){: opennig block 
+}: closing block
+printf: printf is an inbuilt function which is used to 
+        display appropiate message on console screen .
+-----------------------------------------
+    structure of c language:
+    #include<stdio.h>
+    void main()
+    {
+    }
+---------------------------------------
+\n: for new line 
+==================================================================================================================
+DATE:24.06.2026
+
+Datatype: "which type of value we store in a variables its called Datatype."
+ 
+                                value
+                                  |
+                                  v 
+------------------------------------------------------------------
+|                                |                                |
+v                                v                                v
+numbers                         character                         true/false
+
+numbers:
+        (1)point
+        (2)without point
+
+point: book price:159.90
+        height:5.2
+
+        float        %f 
+        double       %lf
+        long double  %LF 
+
+without point:  age:23
+                score:80
+
+            int (integer) %d 
+-----------------------------------------------------------------------------------------------
+variable
+
+    
