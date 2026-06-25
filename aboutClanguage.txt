@@ -51,6 +51,24 @@ without point:  age:23
 
             int (integer) %d 
 -----------------------------------------------------------------------------------------------
-variable
+                variable
+variable : A name which can store a value. 
 
+    e.g. bottle = water     
+        here, water is my value and bottle is a variable name 
+
+        lvalue = rvalue 
+        lvalue means variablename and rvalue means value 
+        use of variable in program. 
+
+step 1 : variable declaration 
+        syntax : datatypename  variablename; 
+        e.g.    int  score; 
+
+step 2 : variable defination or variable initlization 
+        syntax : variablename = value;
+
+step 3 : use of variable 
+        syntax :    printf("%placeholder",variablename)
+        e.g.  : printf("%d",score);
     
