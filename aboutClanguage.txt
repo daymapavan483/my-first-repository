@@ -71,4 +71,31 @@ step 2 : variable defination or variable initlization
 step 3 : use of variable 
         syntax :    printf("%placeholder",variablename)
         e.g.  : printf("%d",score);
+-----------------------------------------------------------
+                KEYWORDS
+keywords are reserved predefined words which have predefined meaning in programing
+
+c language is a case sensetive programing langauge
+e.g. 
+        ASCII value
+        A:65
+        a:97
+--------------------------------------
+variable rules:
+(1) we can't use predefined keywords as a variable name
+        e.g.  int int x
+              float float x
+
+              int INT (correct)
+
+(2) we can't add whitespace in variable name
+        e.g. int subject score x
+
+(3) variable namecotant only AtoZ, atoz, 0 to 9digits and _(underscore) only.
+        e.g. int standard_score
+
+(4) variable name can't start with digit
+        e.g. int 01num x 
+        
+
     
