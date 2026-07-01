@@ -1,7 +1,7 @@
 c langauge : C is a most powerful programing language.
-    which developed by Denis M. Ritchi in 1972 at AT and T bell lab.
-    befor c program there was B programing 
-    and befor  program there is BCPL(Basic Compluted Programing Language)
+             which developed by Denis M. Ritchi in 1972 at AT and T bell lab.
+             befor c program there was B programing 
+            and befor  program there is BCPL(Basic Compluted Programing Language)
     ANSI standarized the c programing in 1989
     ANSI(American National Standadrd Institue)
     and rename as ANSi C and C89
@@ -96,6 +96,74 @@ variable rules:
 
 (4) variable name can't start with digit
         e.g. int 01num x 
-        
+-------------------------------------------------------------------------------
+operator : if we want to perform any operations
+         at that time we have to use specific
+         symbol its called operator.
+e.g a+b 
+here a and b are operands and + is operator
 
-    
+(1)Airithmetic operator
+                + - * / %(module)
+
+(2) assignment operator
+                =
+                 a=10 here 10 assign to a 
+        shorted operator
+        combination of airithmetic and  assignment operator
+        += -= *= /= %=
+(3)relational operator
+        >  <  <=  >= == =!
+
+(4)logical operator
+        &&
+        ||
+        !
+(5) increment decrement operator or utility operators
+                ++ --
+
+(6) Bitwise operator
+        which is perform on individual bits 
+        << left size 
+        >> right side 
+
+(7) conditional operator
+        which contain 3 expression 
+        thats why we can call ternary operator
+
+(8) sizeof operator
+         to find the size of variable size 
+         syntex: sizeof(variablename);
+
+(9) special operator
+        (,) comma operators 
+        (&)addres operator
+        (*) value at operator
+--------------------------------------------------
+        sizeof operrator-
+int : 2byte or 4byte
+float: 4byte
+double: 8byte
+long double : 10byte
+char: 1byte 
+char[size]: size byte
+---------------------------------------------------
+        control statements
+        1) conditional statements
+        2)looping statements
+        3) jumping statements
+
+(1) conditional statements
+        (i) if statements
+        (ii)if...else statements
+        (iii)elif statements
+        (iv)nestedif statements
+        (v)switch statements
+----------------------------------------------
+(i) if statements
+        if condition is true it print ture statements
+        syntex: 
+        if(condition)
+        {
+               // true statement 
+        }
