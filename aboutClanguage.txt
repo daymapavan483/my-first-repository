@@ -154,16 +154,50 @@ char[size]: size byte
         3) jumping statements
 
 (1) conditional statements
-        (i) if statements
-        (ii)if...else statements
-        (iii)elif statements
-        (iv)nestedif statements
-        (v)switch statements
+        (i) if statement
+        (ii)if...else statement
+        (iii)elseif statement
+        (iv)nestedif statement
+        (v)switch statement
 ----------------------------------------------
-(i) if statements
-        if condition is true it print ture statements
+(i) if statement
+        if condition is true it print ture statement
         syntex: 
         if(condition)
         {
                // true statement 
+        }
+-------------------------------------------------------
+(ii) if....else statement
+        if condition is true it print true statemnet 
+        or condition is false it print false statement
+
+        if(condition)
+        {
+                statement
+        }
+        else
+        {
+                statement
+        }
+-------------------------------------------------------
+(iii) else if statement
+        if condition is true it print true statemnet 
+        or condition is false it print false statement
+
+        if(condition)
+        {
+                statement
+        }
+        else if(condition2)
+        {
+                statement
+        }
+        else if(condition3)
+        {
+                statement
+        }
+        else
+        {
+                statement
         }

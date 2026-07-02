@@ -10,4 +10,9 @@ void main()
          printf("\n your number is  below 100");
          
      }
- 
+     
+     else 
+     {
+        printf("\n your number is above 100");
+     }
+}
